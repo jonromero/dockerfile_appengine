@@ -1,1 +1,2 @@
-# dockerfile_appengine
+Docker file for having a Python AppEngine environment
+
